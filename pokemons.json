@@ -1,0 +1,26 @@
+{
+    "Pokedex" :
+    {
+        "Pokemon_1" : [
+            {
+                "Id": "#001",
+                "Nom": "Bulbasur",
+                "Tipus" : ["Planta", "Veneno"],
+                "Pes" : "6.9kg",      
+                "Altura" : "0.7m",
+                "Estadistiques" : {
+                    "Velocitat" : "3",
+                    "Fortalesa" : "3",
+                    "Precisio" : "4",
+                    "Resistencia" : "4",
+                    "Salt" : "3",
+                    "Total" : "17",
+                    "Mitjana" : "3.4"
+                }
+            }        
+        ]
+
+    
+    }
+
+}  
